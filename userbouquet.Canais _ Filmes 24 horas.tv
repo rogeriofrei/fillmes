@@ -1,0 +1,181 @@
+#NAME Canais | Filmes 24 horas
+#SERVICE 4097:0:1:1A:1:1:38B1D:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/232221:[24H] Chaves 1
+#DESCRIPTION [24H] Chaves 1
+#SERVICE 4097:0:1:1A:2:2:38B20:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/232224:24H] Chaves 2
+#DESCRIPTION 24H] Chaves 2
+#SERVICE 4097:0:1:1A:3:3:38B23:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/232227:[24H] Chapolin 1
+#DESCRIPTION [24H] Chapolin 1
+#SERVICE 4097:0:1:1A:4:4:3F9FC:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/260604:[24H] Thiago Ventura
+#DESCRIPTION [24H] Thiago Ventura
+#SERVICE 4097:0:1:1A:5:5:42911:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272657:[24H] Porta dos Fundos 01
+#DESCRIPTION [24H] Porta dos Fundos 01
+#SERVICE 4097:0:1:1A:6:6:42912:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272658:[24H] Porta dos Fundos 02
+#DESCRIPTION [24H] Porta dos Fundos 02
+#SERVICE 4097:0:1:1A:7:7:42913:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272659:[24H] A Culpa é do Cabral 01
+#DESCRIPTION [24H] A Culpa é do Cabral 01
+#SERVICE 4097:0:1:1A:8:8:42914:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272660:[24H] A Culpa é do Cabral 02
+#DESCRIPTION [24H] A Culpa é do Cabral 02
+#SERVICE 4097:0:1:1A:9:9:42915:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272661:[24H] A Culpa é do Cabral 03
+#DESCRIPTION [24H] A Culpa é do Cabral 03
+#SERVICE 4097:0:1:1A:A:A:42916:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272662:[24H] Os Trapalhões
+#DESCRIPTION [24H] Os Trapalhões
+#SERVICE 4097:0:1:1A:B:B:42917:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272663:[24H] Escolinha do Professor Raimundo
+#DESCRIPTION [24H] Escolinha do Professor Raimundo
+#SERVICE 4097:0:1:1A:C:C:42918:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272664:[24H] Eu a Patroa e as Crianças 1
+#DESCRIPTION [24H] Eu a Patroa e as Crianças 1
+#SERVICE 4097:0:1:1A:D:D:42919:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272665:[24H] Eu a Patroa e as Crianças 2
+#DESCRIPTION [24H] Eu a Patroa e as Crianças 2
+#SERVICE 4097:0:1:1A:E:E:4291A:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272666:[24H] Eu a Patroa e as Crianças 3
+#DESCRIPTION [24H] Eu a Patroa e as Crianças 3
+#SERVICE 4097:0:1:1A:F:F:4291B:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272667:[24H] Eu a Patroa e as Crianças 4
+#DESCRIPTION [24H] Eu a Patroa e as Crianças 4
+#SERVICE 4097:0:1:1A:10:10:4291C:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272668:[24H] Eu a Patroa e as Crianças 5
+#DESCRIPTION [24H] Eu a Patroa e as Crianças 5
+#SERVICE 4097:0:1:1A:11:11:4291D:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272669:[24H] Todo Mundo Odeia o Chris 1
+#DESCRIPTION [24H] Todo Mundo Odeia o Chris 1
+#SERVICE 4097:0:1:1A:12:12:4291E:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272670:[24H] Todo Mundo Odeia o Chris 2
+#DESCRIPTION [24H] Todo Mundo Odeia o Chris 2
+#SERVICE 4097:0:1:1A:13:13:4291F:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272671:[24H] Todo Mundo Odeia o Chris 3
+#DESCRIPTION [24H] Todo Mundo Odeia o Chris 3
+#SERVICE 4097:0:1:1A:14:14:42920:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272672:[24H] Todo Mundo Odeia o Chris 4
+#DESCRIPTION [24H] Todo Mundo Odeia o Chris 4
+#SERVICE 4097:0:1:1A:15:15:42921:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272673:[24H] Todo Mundo Odeia o Chris 5
+#DESCRIPTION [24H] Todo Mundo Odeia o Chris 5
+#SERVICE 4097:0:1:1A:16:16:42922:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272674:[24H] Todo Mundo Odeia o Chris 6
+#DESCRIPTION [24H] Todo Mundo Odeia o Chris 6
+#SERVICE 4097:0:1:1A:17:17:42923:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272675:[24H] Todo Mundo Odeia o Chris 7
+#DESCRIPTION [24H] Todo Mundo Odeia o Chris 7
+#SERVICE 4097:0:1:1A:18:18:42924:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272676:[24H] Todo Mundo Odeia o Chris 8
+#DESCRIPTION [24H] Todo Mundo Odeia o Chris 8
+#SERVICE 4097:0:1:1A:19:19:42925:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272677:[24H] Um Maluco no Pedaço 1
+#DESCRIPTION [24H] Um Maluco no Pedaço 1
+#SERVICE 4097:0:1:1A:1A:1A:42926:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272678:[24H] Um Maluco no Pedaço 2
+#DESCRIPTION [24H] Um Maluco no Pedaço 2
+#SERVICE 4097:0:1:1A:1B:1B:42927:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272679:[24H] Um Maluco no Pedaço 3
+#DESCRIPTION [24H] Um Maluco no Pedaço 3
+#SERVICE 4097:0:1:1A:1C:1C:42928:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272680:[24H] Um Maluco no Pedaço 4
+#DESCRIPTION [24H] Um Maluco no Pedaço 4
+#SERVICE 4097:0:1:1A:1D:1D:42929:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272681:[24H] Um Maluco no Pedaço 5
+#DESCRIPTION [24H] Um Maluco no Pedaço 5
+#SERVICE 4097:0:1:1A:1E:1E:4292A:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272682:[24H] Um Maluco no Pedaço 6
+#DESCRIPTION [24H] Um Maluco no Pedaço 6
+#SERVICE 4097:0:1:1A:1F:1F:4292B:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272683:[24H] Friends 01
+#DESCRIPTION [24H] Friends 01
+#SERVICE 4097:0:1:1A:20:20:4292C:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272684:[24H] Friends 02
+#DESCRIPTION [24H] Friends 02
+#SERVICE 4097:0:1:1A:21:21:4292D:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272685:[24H] Friends 03
+#DESCRIPTION [24H] Friends 03
+#SERVICE 4097:0:1:1A:22:22:4292E:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272686:[24H] Friends 04
+#DESCRIPTION [24H] Friends 04
+#SERVICE 4097:0:1:1A:23:23:4292F:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272687:[24H] Friends 05
+#DESCRIPTION [24H] Friends 05
+#SERVICE 4097:0:1:1A:24:24:42930:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272688:[24H] Friends 06
+#DESCRIPTION [24H] Friends 06
+#SERVICE 4097:0:1:1A:25:25:42931:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272689:[24H] Friends 07
+#DESCRIPTION [24H] Friends 07
+#SERVICE 4097:0:1:1A:26:26:42932:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272690:[24H] Friends 08
+#DESCRIPTION [24H] Friends 08
+#SERVICE 4097:0:1:1A:27:27:42933:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272691:[24H] Friends 09
+#DESCRIPTION [24H] Friends 09
+#SERVICE 4097:0:1:1A:28:28:42934:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272692:[24H] Friends 10
+#DESCRIPTION [24H] Friends 10
+#SERVICE 4097:0:1:1A:29:29:42935:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272693:[24H] Vai que Cola 1
+#DESCRIPTION [24H] Vai que Cola 1
+#SERVICE 4097:0:1:1A:2A:2A:42936:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272694:[24H] Vai que Cola 2
+#DESCRIPTION [24H] Vai que Cola 2
+#SERVICE 4097:0:1:1A:2B:2B:42937:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272695:[24H] Vai que Cola 3
+#DESCRIPTION [24H] Vai que Cola 3
+#SERVICE 4097:0:1:1A:2C:2C:42938:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272696:[24H] Vai que Cola 5
+#DESCRIPTION [24H] Vai que Cola 5
+#SERVICE 4097:0:1:1A:2D:2D:42939:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272697:[24H] Vai que Cola 6
+#DESCRIPTION [24H] Vai que Cola 6
+#SERVICE 4097:0:1:1A:2E:2E:4293A:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272698:[24H] Vai que Cola 7
+#DESCRIPTION [24H] Vai que Cola 7
+#SERVICE 4097:0:1:1A:2F:2F:4293B:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272699:[24H] Vai que Cola 8
+#DESCRIPTION [24H] Vai que Cola 8
+#SERVICE 4097:0:1:1A:30:30:42941:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272705:[24H] YT-Investigação Criminal
+#DESCRIPTION [24H] YT-Investigação Criminal
+#SERVICE 4097:0:1:1A:31:31:42942:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272706:[24H] YT-Policia Militar
+#DESCRIPTION [24H] YT-Policia Militar
+#SERVICE 4097:0:1:1A:32:32:42943:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272707:[24H] Xena
+#DESCRIPTION [24H] Xena
+#SERVICE 4097:0:1:1A:33:33:42944:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272708:[24H] Xuxa só para Baixinhos 1
+#DESCRIPTION [24H] Xuxa só para Baixinhos 1
+#SERVICE 4097:0:1:1A:34:34:42945:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272709:[24H] Xuxa só para Baixinhos 2
+#DESCRIPTION [24H] Xuxa só para Baixinhos 2
+#SERVICE 4097:0:1:1A:35:35:42946:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272710:[24H] Jiraya
+#DESCRIPTION [24H] Jiraya
+#SERVICE 4097:0:1:1A:36:36:42947:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272711:[24H] Dois Homens e Meio 01
+#DESCRIPTION [24H] Dois Homens e Meio 01
+#SERVICE 4097:0:1:1A:37:37:42948:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272712:[24H] Dois Homens e Meio 02
+#DESCRIPTION [24H] Dois Homens e Meio 02
+#SERVICE 4097:0:1:1A:38:38:42949:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272713:[24H] Dois Homens e Meio 03
+#DESCRIPTION [24H] Dois Homens e Meio 03
+#SERVICE 4097:0:1:1A:39:39:4294A:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272714:[24H] Dois Homens e Meio 04
+#DESCRIPTION [24H] Dois Homens e Meio 04
+#SERVICE 4097:0:1:1A:3A:3A:4294B:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272715:[24H] Dois Homens e Meio 05
+#DESCRIPTION [24H] Dois Homens e Meio 05
+#SERVICE 4097:0:1:1A:3B:3B:4294C:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272716:[24H] Dois Homens e Meio 06
+#DESCRIPTION [24H] Dois Homens e Meio 06
+#SERVICE 4097:0:1:1A:3C:3C:4294D:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272717:[24H] Dois Homens e Meio 07
+#DESCRIPTION [24H] Dois Homens e Meio 07
+#SERVICE 4097:0:1:1A:3D:3D:4294E:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272718:[24H] Dois Homens e Meio 08
+#DESCRIPTION [24H] Dois Homens e Meio 08
+#SERVICE 4097:0:1:1A:3E:3E:4294F:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272719:[24H] Dois Homens e Meio 09
+#DESCRIPTION [24H] Dois Homens e Meio 09
+#SERVICE 4097:0:1:1A:3F:3F:42950:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272720:[24H] Dois Homens e Meio 10
+#DESCRIPTION [24H] Dois Homens e Meio 10
+#SERVICE 4097:0:1:1A:40:40:42951:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272721:[24H] Dois Homens e Meio 11
+#DESCRIPTION [24H] Dois Homens e Meio 11
+#SERVICE 4097:0:1:1A:41:41:42952:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272722:[24H] Dois Homens e Meio 12
+#DESCRIPTION [24H] Dois Homens e Meio 12
+#SERVICE 4097:0:1:1A:42:42:42953:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272723:Harry Potter 01
+#DESCRIPTION Harry Potter 01
+#SERVICE 4097:0:1:1A:43:43:42954:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272724:Harry Potter 02
+#DESCRIPTION Harry Potter 02
+#SERVICE 4097:0:1:1A:44:44:42955:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272725:Jogos Mortais 01
+#DESCRIPTION Jogos Mortais 01
+#SERVICE 4097:0:1:1A:45:45:42956:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272726:Jogos Mortais 02
+#DESCRIPTION Jogos Mortais 02
+#SERVICE 4097:0:1:1A:46:46:42957:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272727:Jogos Vorazes - Quadrilogia
+#DESCRIPTION Jogos Vorazes - Quadrilogia
+#SERVICE 4097:0:1:1A:47:47:42958:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272728:John Wick - Trilogia
+#DESCRIPTION John Wick - Trilogia
+#SERVICE 4097:0:1:1A:48:48:42959:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272729:Maze Runner - Trilogia
+#DESCRIPTION Maze Runner - Trilogia
+#SERVICE 4097:0:1:1A:49:49:4295A:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272730:O Hobbit - Trilogia
+#DESCRIPTION O Hobbit - Trilogia
+#SERVICE 4097:0:1:1A:4A:4A:4295B:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272731:O Senhor dos Aneis - Trilogia
+#DESCRIPTION O Senhor dos Aneis - Trilogia
+#SERVICE 4097:0:1:1A:4B:4B:4295C:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272732:[24H] A Grande Familia 1
+#DESCRIPTION [24H] A Grande Familia 1
+#SERVICE 4097:0:1:1A:4C:4C:4295D:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272733:[24H] A Grande Familia 2
+#DESCRIPTION [24H] A Grande Familia 2
+#SERVICE 4097:0:1:1A:4D:4D:4295E:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272734:[24H] As Visões da Raven
+#DESCRIPTION [24H] As Visões da Raven
+#SERVICE 4097:0:1:1A:4E:4E:4295F:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272735:[24H] Auto da Comparecida
+#DESCRIPTION [24H] Auto da Comparecida
+#SERVICE 4097:0:1:1A:4F:4F:42960:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272736:[24H] Smallville 01
+#DESCRIPTION [24H] Smallville 01
+#SERVICE 4097:0:1:1A:50:50:42961:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272737:[24H] Smallville 02
+#DESCRIPTION [24H] Smallville 02
+#SERVICE 4097:0:1:1A:51:51:42962:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272738:[24H] Smallville 03
+#DESCRIPTION [24H] Smallville 03
+#SERVICE 4097:0:1:1A:52:52:42963:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272739:[24H] Smallville 04
+#DESCRIPTION [24H] Smallville 04
+#SERVICE 4097:0:1:1A:53:53:42964:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272740:[24H] Smallville 05
+#DESCRIPTION [24H] Smallville 05
+#SERVICE 4097:0:1:1A:54:54:42965:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272741:[24H] Smallville 06
+#DESCRIPTION [24H] Smallville 06
+#SERVICE 4097:0:1:1A:55:55:42966:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272742:[24H] Smallville 07
+#DESCRIPTION [24H] Smallville 07
+#SERVICE 4097:0:1:1A:56:56:42967:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272743:[24H] Smallville 08
+#DESCRIPTION [24H] Smallville 08
+#SERVICE 4097:0:1:1A:57:57:42968:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272744:[24H] Smallville 09
+#DESCRIPTION [24H] Smallville 09
+#SERVICE 4097:0:1:1A:58:58:42969:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/272745:[24H] Smallville 10
+#DESCRIPTION [24H] Smallville 10
+#SERVICE 4097:0:1:1A:59:59:38673:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/231027:24H] Pegadinhas Joao kleber
+#DESCRIPTION 24H] Pegadinhas Joao kleber
+#SERVICE 4097:0:1:1A:5A:5A:391BB:0:0:0:http%3a//135.148.169.68%3a80/ottplayerchannel/JFYQWKNbCUe5/233915:[24H] The Big Bang Theory
+#DESCRIPTION [24H] The Big Bang Theory
